@@ -1,2 +1,2 @@
 # Python-NLP
-[Course Project] (Unstructured Data Analytics)
+[Course Project] Unstructured Data Analytics
